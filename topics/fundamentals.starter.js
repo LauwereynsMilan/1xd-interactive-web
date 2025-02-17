@@ -77,5 +77,3 @@ const person = {
   favoriteFoods: foods,
 };
 console.log(person);
-fundamentals.starter.js
-4 KB
